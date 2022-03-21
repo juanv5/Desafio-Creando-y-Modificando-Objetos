@@ -150,3 +150,5 @@ console.log(p3.getNombrePaciente())
 
 console.log("Mostrando paciente")
 console.log(p3.getRUT())
+
+document.write('Creando y Modificando Objetos')
